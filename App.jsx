@@ -23,7 +23,7 @@ function TaskCard() {
 
       <h2>Build Login Page</h2>
 
-      <p>Owner: Daniel</p>
+      <p>Owner: Alex</p>
 
       <button
         style={{
